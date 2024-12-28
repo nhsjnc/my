@@ -6,5 +6,6 @@ public class testgit {
         System.out.println("版本1");
         System.out.println("版本2");
         System.out.println("主分支");
+        System.out.println("dev的");
     }
 }
